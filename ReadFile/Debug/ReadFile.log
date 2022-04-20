@@ -1,0 +1,7 @@
+﻿  pngstruct.c
+C:\Users\rivai\source\repos\ReadFile\ReadFile\pngstruct.c(28,1): warning C4005: 'PNG_': マクロが再定義されました。
+C:\Users\rivai\source\repos\ReadFile\ReadFile\pngstruct.c(27): message : 'PNG_' の以前の定義を確認してください
+C:\Users\rivai\source\repos\ReadFile\ReadFile\pngstruct.c(29,1): warning C4005: 'PNG_': マクロが再定義されました。
+C:\Users\rivai\source\repos\ReadFile\ReadFile\pngstruct.c(28): message : 'PNG_' の以前の定義を確認してください
+C:\Users\rivai\source\repos\ReadFile\ReadFile\pngstruct.c(115,23): warning C4047: '=': 間接参照のレベルが 'char *' と 'const char' で異なっています。
+  ReadFile.vcxproj -> C:\Users\rivai\source\repos\ReadFile\Debug\ReadFile.exe
